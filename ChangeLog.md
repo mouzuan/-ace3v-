@@ -1,6 +1,6 @@
-特此鸣谢：DeepSeek\n
-        豆包AI\n
-        fei-ke+nicmod\n\n
+特此鸣谢：DeepSeek
+        豆包AI
+        fei-ke+nicmod
 
 爱意随风起，风止意难平
 
@@ -10,3 +10,4 @@
  v1.0
 ［P0］
 \n修复了部分机器无法修复哈希值问题
+    可能由游戏反作弊检测导致，建议完善ROOT隐藏
